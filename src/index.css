@@ -1,4 +1,4 @@
-body {
+ html, body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
@@ -6,5 +6,5 @@ body {
 
 #map {
   width: 50vw;
-  height: 50vh;
+  height: 100vh;
 }
